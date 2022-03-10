@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Recep</h1>
+<h1 align="center">Hi 👋, I'm Recep</h1><br/>
 <h3 align="center">I am a Junior Front End Developer living in Kocaeli, Turkey. Trakya University Students - I am studying computer technologies and information systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
