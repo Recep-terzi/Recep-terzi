@@ -1,6 +1,6 @@
 <img style = "display:flex; width:1000px; height:500px; " src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 <h1 align="center">Hi 👋, I'm Recep</h1><br/>
-<h3 align="right">I am a Junior Front End Developer living in Kocaeli, Turkey. Trakya University Students - I am studying computer technologies and information systems.</h3> 
+<h3 align="center">I am a Junior Front End Developer living in Kocaeli, Turkey. Trakya University Students - I am studying computer technologies and information systems.</h3> 
 
 <br/>
 
