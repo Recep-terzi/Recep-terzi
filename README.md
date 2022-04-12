@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 50%" />
 </div>  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Recep</h1><br/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Recep <img src="blob:https://loading.io/735b2a0a-8917-4042-86c0-98143f719832" width="30px" />></h1><br/>
 <h3 align="center">I am a Junior Front End Developer living in Kocaeli, Turkey. Trakya University Students - I am studying computer technologies and information systems.</h3>
 
 
