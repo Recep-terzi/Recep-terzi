@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 50%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height="35px"/>, I'm Recep  </h1><br/>
 <h1 align="center">My Portfolio Website : <a href = "https://626bc18009e23f00098d075b--glistening-granita-688c07.netlify.app" target="_blank"> Click </a></h1>
