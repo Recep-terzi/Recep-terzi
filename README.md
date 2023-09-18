@@ -3,7 +3,7 @@
 </div>  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height="35px"/>, I'm Recep  </h1><br/>
 <h1 align="center">My Portfolio Website : <a href = "https://pyson.netlify.app" target="_blank"> Click </a></h1>
-<h3 align="center">I am a Junior Front End Developer living in Kocaeli, Turkey. Trakya University Students - I am studying computer technologies and information systems.</h3>
+<h3 align="center">I am a Frontend Developer living in Kocaeli, Turkey. Trakya University Students - I am studying computer technologies and information systems.</h3>
 
 
 <br/>
