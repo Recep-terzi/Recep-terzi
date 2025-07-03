@@ -2,6 +2,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height="35px"/>, I'm Recep  </h1><br/>
+<div align="center">![](https://komarev.com/ghpvc/?recep-terzi)</div>
 <h1 align="center">My Portfolio Website : <a href = "https://pyson.netlify.app" target="_blank"> Click </a></h1>
 <h3 align="center">I am a Frontend Developer living in Kocaeli, Turkey. Trakya University Students - I am studying computer technologies and information systems.</h3>
 
